@@ -1,0 +1,36 @@
+body{
+  background-color: #edf2fb;
+}
+ul {
+  list-style-type: none;
+ }
+#pp{
+  width: 150px;
+  border-radius: 70%; 
+}
+table{ 
+  width: 100%;
+}
+#hinfo{
+  text-align: center;
+  background-color: #2c4268;
+  color:white;
+  font-size: 15px;
+}
+a{color:lightblue}
+
+#name{font-size:large;}
+
+h1{font-size:24px;
+  color:#2c4268;}
+
+.first{
+  width: 27%;
+  background-color: #78B2CA;
+  vertical-align: top;
+  text-align: left;
+  color: #012a4a;
+}
+
+
+#edu{line-height:1px;}
